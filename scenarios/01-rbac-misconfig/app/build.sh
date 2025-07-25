@@ -2,4 +2,4 @@
 docker build -t rbac-misconfig .
 
 # Load into Kind cluster
-kind load docker-image rbac-misconfig  --name KubeArena
+kind load docker-image rbac-misconfig  --name kube-arena
