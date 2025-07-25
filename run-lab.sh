@@ -2,7 +2,7 @@
 
 set -e
 
-CLUSTER_NAME="KubeArena"
+CLUSTER_NAME="kube-arena"
 CLUSTER_DIR="kind-cluster"
 SCENARIO_DIR="scenarios"
 

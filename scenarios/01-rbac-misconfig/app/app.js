@@ -42,7 +42,7 @@ function queryKubeAPI(apiPath, callback) {
 
 app.get('/', (req, res) => {
   res.send(`
-    <h2>📊 Internal Dashboard</h2>
+    <h2>📊 KubeArena Internal Dashboard</h2>
     <p>Status: All systems green</p>
     <p>Environment: prod</p>
     <!-- Nothing suspicious here :) -->
