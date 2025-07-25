@@ -1,4 +1,4 @@
-# 🔐 Kubernetes Security Lab with Kind
+# 🔐 KubeArena - Kubernetes Security Lab with Kind
 
 This project provides a local Kubernetes cluster (via [Kind](https://kind.sigs.k8s.io/)) to simulate real-world Kubernetes security issues and their mitigations. It is designed for hands-on training, testing, and demonstrations of common misconfigurations and vulnerabilities in Kubernetes environments.
 
