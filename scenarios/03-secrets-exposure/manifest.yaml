@@ -1,0 +1,2 @@
+# Kubernetes manifest for scenario: 03 secrets exposure
+# Add pods, deployments, RBAC rules, etc. below

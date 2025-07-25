@@ -1,0 +1,2 @@
+# Kubernetes manifest for scenario: 09 default namespace
+# Add pods, deployments, RBAC rules, etc. below

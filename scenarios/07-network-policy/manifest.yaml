@@ -1,0 +1,2 @@
+# Kubernetes manifest for scenario: 07 network policy
+# Add pods, deployments, RBAC rules, etc. below
